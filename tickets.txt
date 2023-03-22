@@ -1,0 +1,52 @@
+
+
+
+
+
+
+Initial tasks -- upload to Jira as soon as access is cleared
+
+---------------------Phase 1---------------------------------
+
+
+----------------------TODO-----------------------------------
+end-to-end testing - unassigned
+
+Unit test sprite strategies - Isaiah
+
+Christian - Start implementing FXML UI
+Christian - Pick apart FormLayouts
+Saurabh - Pick apart FormLayouts
+Christian - Rip view out of "controllers" 
+Saurabh - Begin work on View.java
+
+Implement command interface - Ramya
+Implement undo / redo - Ramya
+Implement CommandInvoker (will go into model) - Ramya
+Implement CollisionManager (will go into controller) - Ramya
+Create controller - Ramya
+Unit test controller - Ramya
+
+-------------------IN PROGRESS-------------------------------
+Add basic strategies for Sprites - Isaiah
+Extend model - Isaiah 
+Model unit testing - Isaiah
+-------------------COMPLETED---------------------------------
+Add custom collisions to Sprites - Isaiah
+Create CustomCollisionMap - Isaiah
+Unit test custom collision map - Isaiah
+unit tests for save/load - Isaiah
+Implement save/load - Isaiah
+implement sprite copy() method - Isaiah
+Implement hitbox for sprites - Isaiah
+Unit test hitbox for sprites - Isaiah
+Add SpriteIds to Sprites
+Add SpriteManager - Isaiah
+unit tests for spritemanager
+Christian - Look into FXML, FXMLLoader
+Christian - Mock up UI
+
+-------------------Phase 2-----------------------------------
+
+Mostly oriented around custom event strategies for the specific games
+bug fixes, UI improvements, unit tests
